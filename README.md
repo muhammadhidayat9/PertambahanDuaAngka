@@ -14,4 +14,6 @@ Aplikasi ini adalah proyek sederhana untuk melakukan penjumlahan dua angka mengg
 
    ```bash
    git clone https://github.com/muhammadhidayat9/PertambahanDuaAngka
-Muhammad Hidayat 2210010354
+   
+- Muhammad Hidayat 2210010354
+- Latihan 1
