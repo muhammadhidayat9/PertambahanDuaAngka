@@ -1,17 +1,16 @@
-# PertambahanDuaAngka
-Proyek ini merupakan aplikasi sederhana yang digunakan untuk menjumlahkan dua angka. Pengguna dapat memasukkan dua angka, dan aplikasi akan menghitung serta menampilkan hasil penjumlahannya.
+# Pertambahan Dua Angka
 
-#Fitur
-1. Pengguna dapat memasukkan dua angka integer atau desimal.
-2. Menampilkan hasil penjumlahan dari kedua angka yang dimasukkan.
-3. Error handling jika input yang dimasukkan bukan angka.
-#Teknologi yang Digunakan
-1.Bahasa Pemrograman: Java
-2. IDE: NetBeans dengan JFrame (GUI)
-#Cara Menjalankan Aplikasi
-1. Buka proyek di NetBeans IDE.
-2. Jalankan aplikasi dengan menekan tombol Run atau Shift + F6.
-3. Masukkan dua angka pada input yang tersedia.
-4. Klik tombol Hitung untuk melihat hasil penjumlahan.
+Aplikasi ini adalah proyek sederhana untuk melakukan penjumlahan dua angka menggunakan **Java** dengan antarmuka **JFrame**. Proyek ini cocok untuk pemula yang ingin belajar tentang Java GUI menggunakan NetBeans.
 
-Latihan1-MuhammadHidayat_2210010354
+## 🛠️ Teknologi yang Digunakan
+
+- **Bahasa Pemrograman**: Java
+- **IDE**: NetBeans
+- **GUI**: JFrame (Swing)
+
+## 🚀 Cara Menjalankan Proyek
+
+1. Clone repository ini ke komputer Anda:
+
+   ```bash
+   git clone https://github.com/muhammadhidayat9/PertambahanDuaAngka
